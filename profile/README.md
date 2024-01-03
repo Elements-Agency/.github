@@ -1,6 +1,6 @@
 ![Web Elements](https://raw.githubusercontent.com/avcorn/avcorn/main/docs/images/webelements-banner.jpg "Web Elements")
 
-# [Web Elements](http://webelements.agency) #
+# [Web Elements](https://webelements.agency) #
 
 Managing the digital footprint of small businesses.
 
@@ -9,5 +9,5 @@ Web Elements is a cutting-edge web design company that embodies innovation and c
 In a world of complexity, we offer ease and expertise through integrated solutions and first-class client services.
 
 ## Links ##
-*  [Website](http://webelements.agency)
-*  [AVCorn](https://github.com/avcorn/avcorn)
+*  [Website Design](https://webelements.agency)
+*  [AVCorn Project](https://github.com/avcorn/avcorn)
